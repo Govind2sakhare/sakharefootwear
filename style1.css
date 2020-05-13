@@ -1,0 +1,37 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: "Montserrat", sans-serif;
+	background: url(Ce/Desktop/Startup_landing_pageheader.jpg) no-repeat center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: #17a2b8
+
+}
+.btn{
+	font-size: 3rem;
+	color: #607d93
+}
+
+.bufer{
+	height: 50px;
+}
+
+.btn{
+	font-weight: 700;
+	border-radius: 200px;
+	text-transform: uppercase;
+
+}
+
+.btn-primary{
+	background-color: #282921;
+	border-color: #282921;
+}
+s
